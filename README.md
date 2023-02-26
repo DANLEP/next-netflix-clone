@@ -6,7 +6,6 @@
 
 This is a repository for a FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
-VIDEO COMING SOON
 
 Features:
 
@@ -27,7 +26,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-netflix-tutorial.git
+git clone https://github.com/DANLEP/next-netflix-clone.git
 ```
 
 ### Install packages
